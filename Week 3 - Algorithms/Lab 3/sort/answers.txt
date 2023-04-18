@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+Bubble Sort
+How do you know?: Sorted 'Sorted list' in O(n) time complexity compered to sort 3
+Sorted 'Sorted list' in O(n) time complexity compered to sort 3
+sort2 uses: Merge Sort
+Merge Sort
+How do you know?: Sorted every list faster than first and third sort algorithm
+Sorted every list faster than first and third sort algorithm
+sort3 uses: Selection Sort
+Selection Sort
+How do you know?: Sorted 'Sorted List' slower than Sort1
+Sorted 'Sorted List' slower than Sort1
